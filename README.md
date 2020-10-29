@@ -14,4 +14,8 @@ The robot scans the environment looking for enemies, and shoots lasers when they
  - use of laser diode
  
  ## A look of the robot
+ Some images of the robot before adding the diode and leds.
  
+ ![Image](https://github.com/NechitaRamonaAlexandra/ArduinoRobot/blob/main/rbt1.png)
+ 
+  ![Image](https://github.com/NechitaRamonaAlexandra/ArduinoRobot/blob/main/rbt2.png)
